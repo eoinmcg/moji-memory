@@ -1,0 +1,21 @@
+{
+  "index.css": {
+    "file": "assets/index.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/close.svg"
+    ],
+    "css": [
+      "assets/index.css"
+    ],
+    "file": "assets/index.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/assets/close.svg": {
+    "file": "assets/close.svg",
+    "src": "src/assets/close.svg"
+  }
+}
